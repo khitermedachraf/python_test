@@ -14,10 +14,10 @@ TASK 1
 
 TASK 2
 
-1. Load file interval_data.xlsx using pandas package
-2. Transpose table so that it has columns such as MPAN, Date, Hour (values found in Header row from 00:00 to 23:30), Value (for example 7.18, 7.47 and so on). 
-3. Calculate mean, max, min value for each MPAN for each week
-4. Save result to separate file for each MPAN number
+1. Load file interval_data.xlsx using pandas package DONE
+2. Transpose table so that it has columns such as MPAN, Date, Hour (values found in Header row from 00:00 to 23:30), Value (for example 7.18, 7.47 and so on). DONE 
+3. Calculate mean, max, min value for each MPAN for each week DONE
+4. Save result to separate file for each MPAN number DONE
 
 
 
