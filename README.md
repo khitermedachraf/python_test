@@ -24,13 +24,13 @@ TASK 2
 GENERAL PROGRAMMING PART
 
 
-TASK 1
+TASK 1 DONE
 
 Write Morse code decoder. https://en.wikipedia.org/wiki/Morse_code
 decoder('.- -   -.. .- .-- -.   .-.. --- --- -.-   - ---   - .... .   . .- ... -')
 Should return "AT DAWN LOOK TO THE EAST". Letters are separated by one whitespace, words by three whitespaces.
 
-TASK 2
+TASK 2 DONE
 
 Write a programm which encodes a sentence: for each word which length exceeds 3 letters return that word in backward order. 
 For example:

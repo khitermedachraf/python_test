@@ -114,4 +114,4 @@ def task_1():
 
     # Call the function to save files by Type
     save_files_by_type(merged_df)
-    # print(merged_df)
+    print(merged_df)

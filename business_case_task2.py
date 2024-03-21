@@ -39,7 +39,7 @@ def task_2():
         df.to_excel(file_name)
 
     # Display the resulting DataFrame
-    # print(result)
+    print(result)
 
 
 
